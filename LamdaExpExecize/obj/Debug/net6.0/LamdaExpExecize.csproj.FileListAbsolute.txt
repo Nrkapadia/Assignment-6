@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.AssemblyInfo.cs
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\LamdaExpExecize.exe
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\LamdaExpExecize.deps.json
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\LamdaExpExecize.runtimeconfig.json
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\LamdaExpExecize.dll
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\ref\LamdaExpExecize.dll
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\bin\Debug\net6.0\LamdaExpExecize.pdb
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.dll
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\ref\LamdaExpExecize.dll
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.pdb
+D:\DotNet Technologies\Assignment-6\LamdaExpExecize\obj\Debug\net6.0\LamdaExpExecize.genruntimeconfig.cache
